@@ -1,13 +1,14 @@
 nombre = "Manuela"
+edad1 = 22
 nombre2 = "cleopatra"
 apellido = "reina egipcia"
-edad = 23
+edad2 = 23
 
 print("Hola jero")
 print("hola manu")
 
 print("I am " + nombre2 + apellido)
-print("mi edad es " + edad )
+print("mi edad es " + edad2 + "la edad de mi compañera es: " + edad1)
 
 print("las personas en git son: " + nombre + nombre2)
-print("mi nombre es "+nombre+" y mi edad es "+edad)
+print("mi nombre es "+nombre+" y mi edad es "+ edad1)
