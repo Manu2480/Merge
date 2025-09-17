@@ -1,6 +1,6 @@
-nombre = "princes"
+nombre = "cleopatra"
 
 print("Hola perra")
 print("hola pulgosa")
 
-print(" I am" + nombre)
+print("I am " + nombre)
