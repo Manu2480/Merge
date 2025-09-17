@@ -1,8 +1,8 @@
 nombre = "Manuela"
-edad1 = 22
+edad1 = 22 + 10
 nombre2 = "cleopatra"
 apellido = "reina egipcia"
-edad2 = 23
+edad2 = 23 + 10
 
 print("Hola jero")
 print("hola manu")
