@@ -11,6 +11,6 @@ print("I am " + nombre2 + apellido)
 print("mi edad es " + edad2 + "la edad de mi compañera es: " + edad1)
 
 print("las personas en git son: " + nombre + nombre2)
-print("mi nombre es "+nombre+" y mi edad es "+edad)
+print("mi nombre es "+nombre+" y mi edad es "+edad2)
 print("manu me tienes loca")
 print("mi nombre es "+nombre+" y mi edad es "+ edad1)
